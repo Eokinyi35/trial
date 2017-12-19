@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapModule</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_info_title">default info title</string>
+    <string name="default_info_snippet">default info snippet</string>
+    <string name="pick_place">pick place</string>
+</resources>
